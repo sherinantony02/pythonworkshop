@@ -1,0 +1,6 @@
+name =input("enter your name")
+lower_name =name.lower()
+upper_case =name.upper()
+count =name.count('sh')
+split =name.split()
+print(lower_name,"\n",upper_case,"\n",count,"\n",split,"\n")
